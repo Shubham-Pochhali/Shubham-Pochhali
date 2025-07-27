@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham Pochhali</h1>
 <p align="center">
-  <b>Final Year CS Student • Full Stack Explorer • GATE Aspirant • WordPress Learner</b>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F2FF&center=true&vCenter=true&width=435&lines=Building+real+projects+I+believe+in;Solving+DSA+every+day;Learning+WordPress+for+rtCamp+💻;Crafting+my+dream+career+🚀" alt="Typing SVG" />
+  <b>Final Year CS Student • Full Stack Web Developer • Flutter App Developer • WordPress Developer</b>
 </p>
 
 ---
@@ -14,7 +10,6 @@
 - 🎯 I’m currently working on **a Vision Pro inspired 3D website**
 - 🧩 Learning **WordPress Plugin & Theme Development**
 - 🔥 Built a full **E-Commerce App** using Flutter + Firebase
-- 💪 Working daily toward my **GATE goals + Physique goals**
 - 🧠 Sharpening my DSA with **Striver SDE Sheet**
 - 🌱 Exploring backend tools like **PHP, MySQL, Firebase, and Node**
 
@@ -34,33 +29,14 @@
 
 ### 🛠️ Tech Stack & Tools
 
-![My Skills](https://skillicons.dev/icons?i=cpp,php,flutter,firebase,dart,html,css,js,react,nodejs,mysql,wordpress,vscode,git,github)
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhampochhali&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=shubhampochhali&theme=tokyonight" width="48%" />
-</p>
-
----
-
-### ✨ Latest Goals
-
-- ✅ Contribute to WordPress open-source repos
-- ✅ Build PHP + MySQL mini plugin for rtCamp
-- 🚧 Launch Vision Pro Web Project
-- 📖 Ace GATE (focus: DS, Algo, OS, CN, DBMS)
-- 🎯 Build a 10+ LPA profile with real projects + strong DSA
+![My Skills](https://skillicons.dev/icons?i=cpp,php,flutter,firebase,dart,html,css,js,react,mysql,wordpress,vscode,git,github)
 
 ---
 
 ### 💬 Let’s Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shubhampochhali"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/shubham-pochhali-681036285/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
   <a href="https://medium.com/@shubhampochhali"><img src="https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium" /></a>
   <a href="mailto:shubhampochhali@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail" /></a>
 </p>
@@ -74,3 +50,21 @@
 <p align="center">
   ⚡ “One project at a time. One step closer to the dream.”
 </p>
+
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubham-Pochhali&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shubham-Pochhali&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shubham-Pochhali/Shubham-Pochhali/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shubham-Pochhali/Shubham-Pochhali/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Shubham-Pochhali/Shubham-Pochhali/output/pacman-contribution-graph.svg">
+</picture>
+
+###
