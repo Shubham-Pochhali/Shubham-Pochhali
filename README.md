@@ -8,10 +8,9 @@
   <img src="https://skillicons.dev/icons?i=cpp,php,flutter,firebase,dart,html,css,js,react,mysql,wordpress,vscode,git,github" alt="My Skills" />
 </p>
 
-
 ---
 
-### 🧑‍💻 About Me
+### 🧑‍💻 About Me  ([click here for my Resume](https://github.com/Shubham-Pochhali/Shubham-Pochhali/blob/main/Shubham_Pochhali.pdf))
 
 - 🎯 I’m currently working on **a Vision Pro inspired 3D website**
 - 🧩 Learning **WordPress Plugin & Theme Development**
@@ -21,7 +20,7 @@
 
 ---
 
-### 📌 Featured Projects
+### 📌 Featured Projects 
 
 | Project | Tech Stack | Demo / Code |
 |--------|------------|-------------|
