@@ -1,6 +1,16 @@
+<!-- 1. Main Title -->
 <h1 align="center">Hi 👋, I'm Shubham Pochhali</h1>
 <p align="center">
   <b>Final Year CS Student • Full Stack Web Developer • Flutter App Developer • WordPress Developer</b>
+</p>
+
+<!-- 2. GIF intro or catchy visual (hooks viewers instantly) -->
+<p align="center">
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="300px" />
+</p>
+
+<p align="center">
+  ⚡ “One project at a time. One step closer to the dream.”
 </p>
 
 ---
@@ -33,33 +43,16 @@
 
 ---
 
-### 💬 Let’s Connect
+### 📈 GitHub Stats
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shubham-pochhali-681036285/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
-  <a href="https://medium.com/@shubhampochhali"><img src="https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium" /></a>
-  <a href="mailto:shubhampochhali@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail" /></a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubham-Pochhali&show_icons=true&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shubham-Pochhali&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" />
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="300px" />
-</p>
-
-<p align="center">
-  ⚡ “One project at a time. One step closer to the dream.”
-</p>
-
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubham-Pochhali&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shubham-Pochhali&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
+### 👾 Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shubham-Pochhali/Shubham-Pochhali/output/pacman-contribution-graph-dark.svg">
@@ -67,4 +60,12 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Shubham-Pochhali/Shubham-Pochhali/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+---
+
+### 💬 Let’s Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shubham-pochhali-681036285/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
+  <a href="https://medium.com/@shubhampochhali"><img src="https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium" /></a>
+  <a href="mailto:shubhampochhali@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail" /></a>
+</p>
