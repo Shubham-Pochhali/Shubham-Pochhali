@@ -25,10 +25,10 @@
 | Project | Tech Stack | Demo / Code |
 |--------|------------|-------------|
 | 🛍️ **E-Store App** | Flutter + Firebase | [Medium Article](https://medium.com/@shubhampochhali/building-a-fully-functional-e-commerce-app-like-amazon-using-flutter-and-firebase-c92d016a82aa) |
-| 🧩 **Custom WordPress Theme** | PHP, WP, HTML | [GitHub Repo](https://github.com/shubhampochhali/custom-wordpress-theme) |
-| 📊 **Feedback Collector Plugin** | WordPress Plugin (PHP + MySQL) | Coming Soon |
-| 🧠 **DSA Repo** | C++ + Striver Sheet | [GitHub Repo](https://github.com/shubhampochhali/DSA) |
-| 🧪 **Vision Pro Web Clone** | React + Three.js + GSAP | Coming Soon |
+| 🧩 **Custom WordPress Theme** | PHP, WP, HTML | [GitHub Repo](https://github.com/Shubham-Pochhali/custom-wordpress-theme) |
+| 📊 **Feedback Collector Plugin** | WordPress Plugin (PHP + MySQL) | [GitHub Repo](https://github.com/Shubham-Pochhali/wp-feedback-collector) |
+| 🧠 **DSA Repo** | C++ + Striver Sheet | [GitHub Repo](https://github.com/shubham-pochhali/DSA) |
+| 🍎 **Vision Pro Web Clone** | React + Three.js + GSAP | [GitHub Repo](https://github.com/Shubham-Pochhali/vision-pro-3D-website-clone) |
 
 ---
 
