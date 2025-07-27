@@ -10,7 +10,7 @@
 
 ---
 
-### 🧑‍💻 About Me  ([click here for my Resume](https://github.com/Shubham-Pochhali/Shubham-Pochhali/blob/main/Shubham_Pochhali.pdf))
+### 🧑‍💻 About Me  ([click here for my Resume](https://github.com/Shubham-Pochhali/Shubham-Pochhali/blob/main/Shubham_Pochhali-2.pdf))
 
 - 🎯 I’m currently working on **a Vision Pro inspired 3D website**
 - 🧩 Learning **WordPress Plugin & Theme Development**
