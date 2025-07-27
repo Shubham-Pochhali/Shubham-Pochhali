@@ -4,14 +4,10 @@
   <b>Final Year CS Student • Full Stack Web Developer • Flutter App Developer • WordPress Developer</b>
 </p>
 
-<!-- 2. GIF intro or catchy visual (hooks viewers instantly) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="300px" />
+  <img src="https://skillicons.dev/icons?i=cpp,php,flutter,firebase,dart,html,css,js,react,mysql,wordpress,vscode,git,github" alt="My Skills" />
 </p>
 
-<p align="center">
-  ⚡ “One project at a time. One step closer to the dream.”
-</p>
 
 ---
 
@@ -34,12 +30,6 @@
 | 📊 **Feedback Collector Plugin** | WordPress Plugin (PHP + MySQL) | Coming Soon |
 | 🧠 **DSA Repo** | C++ + Striver Sheet | [GitHub Repo](https://github.com/shubhampochhali/DSA) |
 | 🧪 **Vision Pro Web Clone** | React + Three.js + GSAP | Coming Soon |
-
----
-
-### 🛠️ Tech Stack & Tools
-
-![My Skills](https://skillicons.dev/icons?i=cpp,php,flutter,firebase,dart,html,css,js,react,mysql,wordpress,vscode,git,github)
 
 ---
 
@@ -68,4 +58,13 @@
   <a href="https://www.linkedin.com/in/shubham-pochhali-681036285/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
   <a href="https://medium.com/@shubhampochhali"><img src="https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium" /></a>
   <a href="mailto:shubhampochhali@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail" /></a>
+</p>
+
+<!-- 2. GIF intro or catchy visual (hooks viewers instantly) -->
+<p align="center">
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="300px" />
+</p>
+
+<p align="center">
+  ⚡ “One project at a time. One step closer to the dream.”
 </p>
